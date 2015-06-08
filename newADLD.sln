@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newADLD", "newADLD\newADLD.csproj", "{185182F0-D47F-48FE-BB4B-69F9E86FAA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponsSystems", "..\..\CouponsSystems\CouponsSystems\CouponsSystems.csproj", "{9CFA81D3-C01B-4AE5-B272-3B736E1464B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185182F0-D47F-48FE-BB4B-69F9E86FAA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185182F0-D47F-48FE-BB4B-69F9E86FAA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185182F0-D47F-48FE-BB4B-69F9E86FAA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185182F0-D47F-48FE-BB4B-69F9E86FAA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFA81D3-C01B-4AE5-B272-3B736E1464B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFA81D3-C01B-4AE5-B272-3B736E1464B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFA81D3-C01B-4AE5-B272-3B736E1464B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFA81D3-C01B-4AE5-B272-3B736E1464B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
