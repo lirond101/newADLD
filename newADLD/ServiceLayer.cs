@@ -74,6 +74,7 @@ namespace CouponsSystems
                 throw new Exception("User Name already Exists!");
             data.addGeneralUser(userName, pass, fname, lname, 2);
             data.addStoreOwner(userName, email, phone);
+            if (true) ;
         }
 
         public void addStore(string storeID, string name, string desc, string address, int catagory, string city, string phone, string owner)
